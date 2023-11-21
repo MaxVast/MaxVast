@@ -1,5 +1,8 @@
 ### Hi, I'm Max ! 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaxVast&theme=onedark)](https://github.com/MaxVast/github-profile-trophy)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://soliditylang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
