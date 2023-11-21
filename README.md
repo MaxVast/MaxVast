@@ -1,6 +1,6 @@
 ### Hi, I'm Max ! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaxVast&theme=onedark)](https://github.com/MaxVast/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=MaxVast&theme=onedark)](https://github.com/MaxVast/github-profile-trophy)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
