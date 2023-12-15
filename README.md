@@ -21,6 +21,7 @@
 
 <p>
   <a href="https://learnweb3.io/u/MaxVst/" target="_blank" rel="noreferrer">My profil learnweb3.io</a>
+  <a href="https://nodeguardians.io/character/821a7582dd2c" target="_blank" rel="noreferrer">My profil Node Guardians</a>
 </p>
 
 <!--
