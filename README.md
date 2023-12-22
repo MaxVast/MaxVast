@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5" rel="noreferrer">
-    <img src="" alt="Badge alyra" />
+    <img src="https://cdn.discordapp.com/attachments/592049356711002123/1187790919152435282/badge2.png" alt="Badge alyra" width="150px" height="auto" />
   </a>
 </p>
 
