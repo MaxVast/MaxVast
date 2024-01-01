@@ -8,15 +8,15 @@
 - 🌱 I’m currently learning **RUST**
 - 👯 I’m looking to collaborate on **Web3 projects**
 - 💬 Ask me about **PHP, API PLATFORM, Solidity, Hardhat, VueJs, NextJs**
-<!-- - 📫 How to reach me :
-    - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**-->
 - 📄 My experiences :
     - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**
     - **[French Blockchain Certification](https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5)**
-- Education Platform Web3 :
+      
+- 📄 Education Platform Web3 :
     - **[My profil learnweb3.io](https://learnweb3.io/u/MaxVst/)**
     - **[My profil Node Guardians](https://nodeguardians.io/character/821a7582dd2c)**
-
+<!-- - 📫 How to reach me :
+    - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**-->
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
 <a href="https://soliditylang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
