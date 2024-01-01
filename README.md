@@ -2,6 +2,8 @@
 
 <h3 align="left">Welcome on my Github, I am a Back-End developer, passionate about Blockchain (Ethereum/Solidity) and technology from France !</h3>
 
+<img align="right" src="https://bafybeibbnd4v3zbmuyawdxemgezvuhwmso6pyq3o5cni2qugszcoxms65y.ipfs.nftstorage.link/_b37c3fa2-9381-4ed4-8d82-bd33b572697d.jpeg" alt="Developer Blockchain" width="200px" height="auto" />
+
 - 🔭 I’m currently working for **<a href="https://www.syneidolab.com/" target="blank">SYNEIDO LAB</a>**
 - 🌱 I’m currently learning **RUST**
 - 👯 I’m looking to collaborate on **Web3 projects**
@@ -36,8 +38,7 @@
   <a align=left" href="https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5" rel="noreferrer">
     <img src="https://bafybeibwkktgym6eg3fbeedffd2aduopukhqfgb6kg7cccufg6ha7izvra.ipfs.nftstorage.link/badge_alyra.png" alt="Badge alyra" width="200px" height="auto" />
   </a>
-
-  <img align="right" src="https://bafybeibbnd4v3zbmuyawdxemgezvuhwmso6pyq3o5cni2qugszcoxms65y.ipfs.nftstorage.link/_b37c3fa2-9381-4ed4-8d82-bd33b572697d.jpeg" alt="Developer Blockchain" width="200px" height="auto" />
 </p>
+  
 
   
