@@ -33,10 +33,10 @@
 <a href="https://symfony.com" target="blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> </a> 
 </p>
-
+<br/><br/>
 <p>
   <a align=left" href="https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5" rel="noreferrer">
-    <img src="https://bafybeibwkktgym6eg3fbeedffd2aduopukhqfgb6kg7cccufg6ha7izvra.ipfs.nftstorage.link/badge_alyra.png" alt="Badge alyra" width="200px" height="auto" />
+    <img src="https://bafybeibwkktgym6eg3fbeedffd2aduopukhqfgb6kg7cccufg6ha7izvra.ipfs.nftstorage.link/badge_alyra.png" alt="Badge alyra" width="150px" height="auto" />
   </a>
 </p>
   
