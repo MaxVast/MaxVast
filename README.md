@@ -18,6 +18,8 @@
 <!-- - 📫 How to reach me :
     - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxVast&label=Profile%20views&style=flat" alt="MaxVast" /> </p>
+
 <h3 align="left">Languages and Tools :</h3>
 <div align="left">
 <a href="https://soliditylang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
