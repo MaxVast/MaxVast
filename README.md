@@ -7,7 +7,7 @@
 - 🔭 I’m currently working for <a href="https://www.syneidolab.com/" target="blank">SYNEIDO LAB</a>
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="blank">**RUST**</a>
 - 👯 I’m looking to collaborate on **Web3 projects**
-- 💬 Ask me about **PHP, API PLATFORM, Solidity, Hardhat, Javascript, VueJs, NextJs**
+- 💬 Ask me about **PHP/Symfony, API PLATFORM, Solidity, Hardhat, Javascript, VueJs, NextJs**
 - 📄 My experiences :
     - [My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)
     - [French Blockchain Certification](https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5)
