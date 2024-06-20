@@ -22,6 +22,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div align="left">
+<a href="https://www.rust-lang.org/" target="blank"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://soliditylang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
 <a href="https://hardhat.org/" target="blank"><img src="https://user-images.githubusercontent.com/176499/96893278-ebc67580-1460-11eb-9530-d5df3a3d65d0.png" alt="hardhat" width="15%" height="auto"/></a> 
 <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
