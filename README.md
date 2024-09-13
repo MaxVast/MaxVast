@@ -14,9 +14,9 @@
       
 - 📄 Education Platform Web3 :
     - [My profil learnweb3.io](https://learnweb3.io/u/MaxVst/)
-    - [My profil Node Guardians](https://nodeguardians.io/character/821a7582dd2c)
-<!-- - 📫 How to reach me :
-    - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**-->
+    <!-- - [My profil Node Guardians](https://nodeguardians.io/character/821a7582dd2c)-->
+ - 📫 How to reach me :
+    - **[My linkedin](https://www.linkedin.com/in/maxence-vast-3b5509b2/)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxVast&label=Profile%20views&style=flat" alt="MaxVast" /> </p>
 
