@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Max ! 👋</h1>
+#Hi, I'm Max ! 👋
 
 <h3 align="center">I am a developer, passionate about Blockchain (Ethereum/Solidity) and technology from France !</h3>
 
