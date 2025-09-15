@@ -4,7 +4,7 @@
 
 <img align="right" src="https://bafybeibbnd4v3zbmuyawdxemgezvuhwmso6pyq3o5cni2qugszcoxms65y.ipfs.nftstorage.link/_b37c3fa2-9381-4ed4-8d82-bd33b572697d.jpeg" alt="Developer Blockchain" width="200px" height="auto" />
 
-- 🔭 I’m currently working for <a href="https://www.syneidolab.com/" target="blank">SYNEIDO LAB</a>
+- 🔭 I'm looking for a freelance job
 - 📚 I'm a PHP and blockchain teacher at <a href="https://www.enigma-school.com/" target="blank">ENIGMA-SCHOOL</a>
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="blank">**RUST**</a> & <a href="https://go.dev/" target="blank">**Golang**</a>
 - 👯 I’m looking to collaborate on **projects**
