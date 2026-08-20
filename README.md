@@ -1,6 +1,6 @@
 # Hi, I'm Max ! 👋
 
-<h3 align="center">I am a developer, passionate about Blockchain (Ethereum/Solidity) and technology from France !</h3>
+<h3 align="center">I am a developer, passionate about Ops, Blockchain and technology from France !</h3>
 
 - 🔭 I'm looking for a freelance job
 - 📚 I'm a PHP and blockchain teacher at <a href="https://www.enigma-school.com/" target="blank">ENIGMA-SCHOOL</a>
