@@ -41,8 +41,8 @@
 <br/>
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaxVast&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVast&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
+    <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=MaxVast&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVast&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>-->
     
 <p align="left">
         <a href="https://certificate.bcdiploma.com/check/BA459C42FC93266BBA38C7939187BF67AEF6BFA9B695F9F90CA3F03771128853aW1ZSnVVa1JrNFgrd1Eyak4wRG1BU0o2VnhnaEx0S0NDTzB5WnJWS2hmV2J0Snl5" rel="noreferrer">
